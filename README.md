@@ -1,4 +1,4 @@
-# email_list
+# Email List
 
 The objective of this project was to work with event handler and understand in practice how it works. Below is a list of the things that I did on this project working with event handler:
 1. event handler for the click event to the “Clear Entries” button that clears all of the text boxes by setting them to an empty string(“”). 
